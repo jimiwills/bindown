@@ -1,0 +1,25 @@
+# bindown
+
+Alternative names that were considered:
+
+* hexdown
+* markhex
+* markbin
+
+Can you guess what it is yet?
+
+Bindown is a tool to extract and compile code from markdown files
+in which the code is hex, to be encoded to binary.
+
+The idea is that if you want to directly edit a binary file, you
+might want to explain yourself in the source, which is a but difficult,
+since there is no source.  So bindown is your source.  You can still
+write in binary (hex; as opposed to asm or whatever) but you get to 
+bloat your file with wheeze.
+   
+
+ 	48 65 6c6c 6f 2c 20
+	77 6f 72 6c 64 21   
+	
+
+
